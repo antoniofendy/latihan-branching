@@ -3,8 +3,12 @@ Daftar belajar
 1. Javascript
    > Node
    > Vue
+   
 2. CSS 3
-   > Bootstrap
-   > Responsive
+   > Grid system
+   > Flex-box   
+
 3. Laravel
    > Eloquent ORM
+   
+
